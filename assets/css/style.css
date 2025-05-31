@@ -56,6 +56,10 @@ article h1, h2, p {
     margin: 30px 0;
 }
 
+.video-section h1, h2 {
+    font-siza: 21px
+}
+
 img {
     border-radius: 7px;
 }
