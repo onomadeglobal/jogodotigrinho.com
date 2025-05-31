@@ -41,7 +41,7 @@ article {
     border-radius: 7px;
 }
 
-article h1, p {
+article h1, h2, p {
     padding: 14px;
     
 }
